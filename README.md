@@ -76,19 +76,17 @@ Instead of rewriting the same scroll reveals, hover effects, and page transition
 
 ### Clone the Repository
 
-
-git clone https://github.com/eyeyuel/motion-components.git
+```bash
+git clone [https://github.com/eyeyuel/motion-components.git](https://github.com/eyeyuel/motion-components.git)
 cd motion-components
 Install Dependencies
-bash
+Bash
 pnpm install
 Start Development Server
-bash
+Bash
 pnpm dev
-Open:
+Open: http://localhost:3000
 
-text
-http://localhost:3000
 📦 Usage
 Browse the demo page to see all components in action.
 
@@ -103,7 +101,7 @@ Customize the props and styling as needed – every component accepts a classNam
 ⚡ The components are not locked to Next.js – they work in any React application that supports motion and Tailwind.
 
 📂 Project Structure
-text
+Plaintext
 ├── app
 │   ├── page.tsx              # Showcase page
 │   └── layout.tsx
@@ -126,9 +124,7 @@ Telegram: @Eyuel_Teklu
 
 GitHub: https://github.com/eyeyuel
 
-LinkedIn: YOUR_LINKEDIN_URL
+LinkedIn: https://www.linkedin.com/in/eyuel-teklu
 
 📄 License
 This project is licensed under the MIT License.
-
-<p align="center"> Built with ❤️ and a lot of spring physics by <strong>Eyuel Teklu</strong> </p>
