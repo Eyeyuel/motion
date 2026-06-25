@@ -76,7 +76,7 @@ Instead of rewriting the same scroll reveals, hover effects, and page transition
 
 ### Clone the Repository
 
-```bash
+
 git clone https://github.com/eyeyuel/motion-components.git
 cd motion-components
 Install Dependencies
@@ -131,4 +131,4 @@ LinkedIn: YOUR_LINKEDIN_URL
 📄 License
 This project is licensed under the MIT License.
 
-<p align="center"> Built with ❤️ and a lot of spring physics by <strong>Eyuel Teklu</strong> </p> ```
+<p align="center"> Built with ❤️ and a lot of spring physics by <strong>Eyuel Teklu</strong> </p>
